@@ -1,0 +1,6 @@
+[submodule "cosmic-ext-applet-connect"]
+	path = cosmic-ext-applet-connect
+	url = git@github.com:hepp3n/cosmic-ext-applet-connect.git
+[submodule "kdeconnect"]
+	path = kdeconnect
+	url = git@github.com:hepp3n/kdeconnect

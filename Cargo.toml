@@ -1,0 +1,3 @@
+[workspace]
+members = ["kdeconnect", "cosmic-ext-applet-connect"]
+resolver = "2"
