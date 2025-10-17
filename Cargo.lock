@@ -1035,7 +1035,7 @@ version = "0.1.0"
 dependencies = [
  "i18n-embed",
  "i18n-embed-fl",
- "kdeconnect 0.1.0 (git+https://github.com/hepp3n/kdeconnect)",
+ "kdeconnect",
  "libcosmic",
  "open",
  "rust-embed",
@@ -2799,30 +2799,6 @@ dependencies = [
 [[package]]
 name = "kdeconnect"
 version = "0.1.0"
-dependencies = [
- "dirs 6.0.0",
- "futures-util",
- "hostname",
- "lazy_static",
- "notify-rust",
- "rcgen",
- "ron 0.10.1",
- "serde",
- "serde_json",
- "time",
- "tokio",
- "tokio-native-tls",
- "tokio-stream",
- "tracing",
- "tracing-subscriber",
- "uuid",
- "webpki-roots",
-]
-
-[[package]]
-name = "kdeconnect"
-version = "0.1.0"
-source = "git+https://github.com/hepp3n/kdeconnect#cc486f8d1ced48daf465658e0afea1fe92a30dff"
 dependencies = [
  "dirs 6.0.0",
  "futures-util",
